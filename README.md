@@ -5,4 +5,4 @@ download e-book from a website which needs login
 
 ## todo 
 - [ ] multipropressing
-- [ ] auto restart
+- [ ] auto restart 🚩  (important feature needs to finished quick)
